@@ -29,6 +29,7 @@ This project uses the API from OpenWeatherMap to retrieve weather data and displ
 * Follow the prompts to deploy your app to ShinyApps.io.
 
 ## Contact
-If you have any questions or suggestions, please contact us via email: phamvietofficial@gmail.com
-Wishing you success with your project! 💝💖
+* If you have any questions or suggestions, please contact us via email: phamvietofficial@gmail.com
+* Wishing you success with your project! 💝💖
+  
 👉 𝐂𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭 𝐛𝐞𝐥𝐨𝐧𝐠𝐬 𝐭𝐨 𝐏𝐡𝐚𝐦 𝐕𝐚𝐧 𝐕𝐢𝐞𝐭 👈
