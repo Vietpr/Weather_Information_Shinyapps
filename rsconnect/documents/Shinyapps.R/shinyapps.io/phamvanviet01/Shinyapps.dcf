@@ -1,0 +1,13 @@
+name: Shinyapps
+title: Shinyapps
+username: phamvanviet01
+account: phamvanviet01
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12316570
+bundleId: 8862513
+url: https://phamvanviet01.shinyapps.io/Shinyapps/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Back1.R|back2.R
